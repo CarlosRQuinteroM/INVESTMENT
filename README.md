@@ -39,7 +39,7 @@ The application performs the following calculations for each year:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/ReactInvestmentCalculator.git
+   git clone https://github.com/CarlosRQuinteroM/ReactInvestmentCalculator.git
 
 # Install the dependencies:
 npm install
